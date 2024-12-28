@@ -1,4 +1,4 @@
-Automated Shell Script
+#Automated Shell Script
 
 Here is a Bash script that automates user and group administration on Linux (Ubuntu). It allows for creating and deleting users, creating and deleting groups, and modifying user group memberships.
 
